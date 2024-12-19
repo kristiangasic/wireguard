@@ -93,4 +93,6 @@ Für Fragen oder Unterstützung:
 - [WireGuard Dokumentation](https://www.wireguard.com/)
 - [GitHub Repository](https://github.com/kristiangasic/wireguard)
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kristiangasic)
+
 ---
